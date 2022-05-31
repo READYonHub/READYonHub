@@ -1,0 +1,40 @@
+using System;
+
+namespace HelloWorld
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+	
+
+string originalMessage = "Ide írd a szöveget amit vissza fele akarsz.";
+
+char[] message = originalMessage.ToCharArray();
+Array.Reverse(message);
+
+int letterCount = 0;
+
+foreach (char letter in message)
+{
+    if (letter == 'o')
+    {
+        letterCount++;
+    }
+}
+
+string newMessage = new String(message);
+
+Console.WriteLine(newMessage);
+Console.WriteLine($"'o' appears {letterCount} times.");
+      Console.ReadLine();    
+    }
+  }
+}
+
+
+
+
+
+
+
