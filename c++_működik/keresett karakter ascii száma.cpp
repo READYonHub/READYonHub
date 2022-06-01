@@ -10,3 +10,7 @@ int main()
 	cout << "A keresett karakarter: \t[--- " << character << " ---]\nASCII kódja a ---> \t[--- "
 	<< static_cast<int>(character)<< " ---]";
 }
+/*
+A keresett karakarter: 	[--- a ---]
+ASCII kódja a ---> 	[--- 97 ---]
+*/
