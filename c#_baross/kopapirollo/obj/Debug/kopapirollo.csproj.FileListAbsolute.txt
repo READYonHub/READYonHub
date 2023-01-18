@@ -1,0 +1,8 @@
+C:\Users\kaszonyi.krisztian\Desktop\Kaszonyi Krisztián\c#\kopapirollo\bin\Debug\kopapirollo.exe.config
+C:\Users\kaszonyi.krisztian\Desktop\Kaszonyi Krisztián\c#\kopapirollo\bin\Debug\kopapirollo.exe
+C:\Users\kaszonyi.krisztian\Desktop\Kaszonyi Krisztián\c#\kopapirollo\bin\Debug\kopapirollo.pdb
+C:\Users\kaszonyi.krisztian\Desktop\Kaszonyi Krisztián\c#\kopapirollo\obj\Debug\kopapirollo.csproj.AssemblyReference.cache
+C:\Users\kaszonyi.krisztian\Desktop\Kaszonyi Krisztián\c#\kopapirollo\obj\Debug\kopapirollo.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaszonyi.krisztian\Desktop\Kaszonyi Krisztián\c#\kopapirollo\obj\Debug\kopapirollo.csproj.CoreCompileInputs.cache
+C:\Users\kaszonyi.krisztian\Desktop\Kaszonyi Krisztián\c#\kopapirollo\obj\Debug\kopapirollo.exe
+C:\Users\kaszonyi.krisztian\Desktop\Kaszonyi Krisztián\c#\kopapirollo\obj\Debug\kopapirollo.pdb
