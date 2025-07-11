@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns : - - - - - - - - - - - - - - - - - > :::
 - ⚡ Fun fact: - - - - - - - - - - - - - - - - -  > :::  If we ever find the end of the Pi number, according to some scientists, that’ll mean we live in the simulation.
 # Web Development
-
+-->
 * HTML, CSS, Bootstrap, TailwindCss, Javascript, Ajax, Jquery, SQL, MySQL, Postgresql, MongoDb, XML, React, React Native, TypeScript, PHP, C, C++, C#, Bash, PowerShell.
